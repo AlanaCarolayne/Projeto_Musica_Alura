@@ -1,5 +1,4 @@
-# Projeto_Musica_Alura
-# Sobre o projeto: 
+# Sobre  o projeto:
 
 ## Desafio da música 🎼
 
